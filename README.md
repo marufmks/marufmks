@@ -31,9 +31,9 @@ Explore more of my projects in the [repositories](https://github.com/username?ta
 
 ## 📈 My GitHub Stats
 
-![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=maarufmks&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)](https://github.com/username/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maarufmks&layout=compact&theme=radical)](https://github.com/maarufmks/github-readme-stats)
 
 ---
 
