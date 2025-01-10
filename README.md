@@ -51,8 +51,8 @@ Explore more of my projects in the [repositories](https://github.com/username?ta
 
 ## 📫 Connect with Me
 
-- 🌐 Portfolio: [maruf-portfolio.com]([https://maruf-portfolio.com](https://maruf-portfolio-eta.vercel.app/))
-- 💼 LinkedIn: [linkedin.com/in/maruf](www.linkedin.com/in/maruf-khan-234b31143)
+- 🌐 Portfolio: [maruf-portfolio-eta.vercel.app](https://maruf-portfolio-eta.vercel.app/)
+- 💼 LinkedIn: [www.linkedin.com/in/maruf-khan-234b31143](https://www.linkedin.com/in/maruf-khan-234b31143)
 - 📧 Email: marufkh204@gmail.com
 
 ---
