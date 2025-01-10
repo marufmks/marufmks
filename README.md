@@ -1,6 +1,6 @@
 # Hi there, I'm Maruf! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializing in **WordPress development**, **Laravel Development** **PHP**, and **React**. With 3+ years of experience, I enjoy building efficient, scalable, and user-friendly solutions for the web.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializing in **WordPress development**, **Laravel Development**, **PHP**, and **React**.I enjoy building efficient, scalable, and user-friendly solutions for the web.
 
 ---
 
