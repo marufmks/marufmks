@@ -50,7 +50,7 @@ Explore more of my projects in the [repositories](https://github.com/marufmks?ta
 
 - 🌐 Portfolio: [maruf-portfolio-eta.vercel.app](https://maruf-portfolio-eta.vercel.app/)
 - 💼 LinkedIn: [www.linkedin.com/in/maruf-khan-234b31143](https://www.linkedin.com/in/maruf-khan-234b31143)
-- 📧 Email: marufkh204@gmail.com
+- 📧 Email: marufmks5556@gmail.com
 
 ---
 
