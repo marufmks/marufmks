@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there, I'm Maruf! 👋
 
-<!--
-**marufmks/marufmks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializing in **WordPress development**, **PHP**, and **React**. With 3+ years of experience, I enjoy building efficient, scalable, and user-friendly solutions for the web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌟 **Expertise**: WordPress theme & plugin development, PHP, React, Laravel, MySQL, REST APIs
+- 🔧 **Tools & Technologies**: Composer, TailwindCSS, AWS, Google Cloud, Git
+- 🧠 **Currently Learning**: Advanced AWS & Google Cloud for deployment
+- 🎯 **Career Goals**: Seeking remote opportunities or abroad jobs with work visas
+- 🏆 **Achievements**: Contributor to [Guidant Plugin](https://wordpress.org/plugins/guidant/), creator of **Dynamic Surveys** plugin
+
+---
+
+## 💼 Projects
+
+### 🔹 [Dynamic Surveys Plugin](https://github.com/username/dynamic-surveys)
+A WordPress plugin to create and manage surveys with real-time results displayed as pie charts.
+
+### 🔹 WP Pricing Plan Plugin
+A WordPress plugin to create, customize, and display pricing plans on the frontend using shortcodes.
+
+### 🔹 Employee Management System Plugin
+A WordPress plugin using React for managing employees and sales reports with a frontend dashboard.
+
+Explore more of my projects in the [repositories](https://github.com/username?tab=repositories) section!
+
+---
+
+## 📈 My GitHub Stats
+
+![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)](https://github.com/username/github-readme-stats)
+
+---
+
+## 🛠️ Technologies & Tools
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 Portfolio: [maruf-portfolio.com]([https://maruf-portfolio.com](https://maruf-portfolio-eta.vercel.app/))
+- 💼 LinkedIn: [linkedin.com/in/maruf](www.linkedin.com/in/maruf-khan-234b31143)
+- 📧 Email: marufkh204@gmail.com
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
