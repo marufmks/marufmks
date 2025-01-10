@@ -16,13 +16,10 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializin
 
 ## 💼 Projects
 
-### 🔹 [Dynamic Surveys Plugin](https://github.com/username/dynamic-surveys)
+### 🔹 [Dynamic Surveys Plugin](https://github.com/marufmks/dynamic-surveys)
 A WordPress plugin to create and manage surveys with real-time results displayed as pie charts.
 
-### 🔹 WP Pricing Plan Plugin
-A WordPress plugin to create, customize, and display pricing plans on the frontend using shortcodes.
-
-### 🔹 Employee Management System Plugin
+### 🔹 [Employee Management System Plugin](https://github.com/marufmks/employee-management-system)
 A WordPress plugin using React for managing employees and sales reports with a frontend dashboard.
 
 Explore more of my projects in the [repositories](https://github.com/username?tab=repositories) section!
