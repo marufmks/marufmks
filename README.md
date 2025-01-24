@@ -22,6 +22,9 @@ A WordPress plugin to create and manage surveys with real-time results displayed
 ### 🔹 [Employee Management System Plugin](https://github.com/marufmks/employee-management-system)
 A WordPress plugin using React for managing employees and sales reports with a frontend dashboard.
 
+### 🔹 [Pricing Plan](https://github.com/marufmks/pricing-plan)
+A WordPress plugin to create beautiful pricing packages and plans and show them on frontend with shortcode.
+
 Explore more of my projects in the [repositories](https://github.com/marufmks?tab=repositories) section!
 
 ---
